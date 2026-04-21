@@ -1,0 +1,34 @@
+{
+  "title": {
+    "message": "Coding2Live",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Coding2Live Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.百科": {
+    "message": "Encyclopedia",
+    "description": "Navbar item with label 百科"
+  },
+  "item.label.案例库": {
+    "message": "Cases",
+    "description": "Navbar item with label 案例库"
+  },
+  "item.label.项目索引": {
+    "message": "Project Index",
+    "description": "Navbar item with label 项目索引"
+  },
+  "item.label.资料来源": {
+    "message": "Sources",
+    "description": "Navbar item with label 资料来源"
+  },
+  "item.label.贡献指南": {
+    "message": "Contribute",
+    "description": "Navbar item with label 贡献指南"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

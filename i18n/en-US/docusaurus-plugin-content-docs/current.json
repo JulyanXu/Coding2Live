@@ -1,0 +1,26 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docsSidebar.category.行业场景": {
+    "message": "Industries",
+    "description": "The label for category '行业场景' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.日常生活": {
+    "message": "Daily Life",
+    "description": "The label for category '日常生活' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.工作流": {
+    "message": "Workflows",
+    "description": "The label for category '工作流' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.案例库": {
+    "message": "Case Library",
+    "description": "The label for category '案例库' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.资料来源": {
+    "message": "Sources",
+    "description": "The label for category '资料来源' in sidebar 'docsSidebar'"
+  }
+}

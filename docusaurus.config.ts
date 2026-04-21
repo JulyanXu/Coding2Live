@@ -32,7 +32,18 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans'],
+    locales: ['zh-Hans', 'en-US'],
+    localeConfigs: {
+      'zh-Hans': {
+        label: '中文',
+        htmlLang: 'zh-Hans',
+      },
+      'en-US': {
+        label: 'English',
+        htmlLang: 'en-US',
+        baseUrl: '/Coding2Live/en/',
+      },
+    },
   },
 
   presets: [
@@ -78,6 +89,10 @@ const config: Config = {
         {
           href: 'https://github.com/JulyanXu/Coding2Live',
           label: 'GitHub',
+          position: 'right',
+        },
+        {
+          type: 'localeDropdown',
           position: 'right',
         },
       ],
