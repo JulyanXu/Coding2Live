@@ -2,6 +2,8 @@
 
 Coding2Live 是一本面向工作、学习与生活的 vibe coding 百科。项目以中文主文组织内容，并提供英文版；条目保留英文官方资料、开源项目和论文链接，帮助读者把 AI 协作、编程自动化和工具链实践转化为可复用方法。
 
+线上阅读：https://julyanxu.github.io/Coding2Live/
+
 ## 一期内容
 
 - Docusaurus 文档站，适配 GitHub Pages。
