@@ -17,10 +17,16 @@ npm install
 npm run start
 ```
 
-生产构建：
+提交前检查：
 
 ```bash
+npm run typecheck
 npm run build
+```
+
+生产预览：
+
+```bash
 npm run serve
 ```
 
