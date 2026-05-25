@@ -43,3 +43,7 @@ Coding2Live 不搬运全文，不复制受版权保护的大段内容。条目�
 ## 发布
 
 推送到 `main` 分支后，GitHub Actions 会构建 Docusaurus 并发布到 GitHub Pages。
+
+## Changelog
+
+- v0.1: Initial release
