@@ -36,6 +36,10 @@ npm run serve
 
 Coding2Live 不搬运全文，不复制受版权保护的大段内容。条目只做摘要、结构化评价、实践路径和来源链接；优先收录官方文档、论文、知名开源项目和可复现案例。
 
+## 贡献
+
+欢迎提交 Issue 和 Pull Request。提交前请确保通过 `npm run typecheck` 和 `npm run build`。
+
 ## 发布
 
 推送到 `main` 分支后，GitHub Actions 会构建 Docusaurus 并发布到 GitHub Pages。
